@@ -1,0 +1,14 @@
+# Django
+Django==4.2.7
+asgiref==3.7.2
+pip==22.3.1
+setuptools==65.5.1
+sqlparse==0.4.4
+wheel==0.38.4
+python-decouple==3.8
+
+
+# DB
+psycopg2-binary==2.9.9
+
+
